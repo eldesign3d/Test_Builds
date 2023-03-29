@@ -1,8 +1,5 @@
-# Main Github Direct Download Link: 
+alt download locations:
 
+Github Download: https://github.com/eldesign3d/Test_Builds
 
-## Google Drive Folder Download Link: 
-
-#
-> My Itch.io: 
-> https://deepspace.itch.io/
+Google Drive Download: https://drive.google.com/drive/folders/1QBGkxpYCCoiLhf0B8RZdrCp_vrRT2-xg
